@@ -1,24 +1,15 @@
 {
-    "name": "ocdladefense/intern-starter",
-    "description": "Test repo for connecting to the Salesforce REST API.",
+    "name": "paulsenm/email_module",
+    "description": "Test repo for mail module",
     "type": "wordpress-theme",
     "license": "MIT",
     "authors": [
         {
-            "name": "Christian Collis",
-            "email": "collisc@my.lanecc.edu"
-        },
-        {
-            "name": "William Todd",
-            "email": "toddw@my.lanecc.edu"
-        },
-        {
-            "name": "José Bernal",
-            "email": "jbernal.web.dev@gmail.com"
+            "name": "Michael Paulsen",
+            "email": "paulsenm@my.lanecc.edu"
         }
     ],
     "require": {
-        "ocdladefense/lib-http":"~3.0"
     },
     "config": {
         "allow-plugins": {
